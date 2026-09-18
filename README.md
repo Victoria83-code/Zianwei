@@ -1,4 +1,4 @@
-# Victoria's Portfolio（后面有中文解释）
+# Victoria's Portfolio（我的项目作品集，后面有中文解释）
 
 MSc Operational Research & Data Science · Data analyst · Open to data science / data analyst roles...
 
